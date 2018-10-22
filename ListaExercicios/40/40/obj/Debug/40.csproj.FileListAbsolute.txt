@@ -1,0 +1,9 @@
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\bin\Debug\40.exe.config
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\bin\Debug\40.exe
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\bin\Debug\40.pdb
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\obj\Debug\_40.Form1.resources
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\obj\Debug\_40.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\obj\Debug\40.csproj.GenerateResource.cache
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\obj\Debug\40.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\obj\Debug\40.exe
+C:\Users\Marcelo\Desktop\fatec\LP2\40\40\obj\Debug\40.pdb
